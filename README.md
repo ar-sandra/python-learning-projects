@@ -16,7 +16,7 @@ To track my progress in Python, demonstrate practical applications of what I've 
 ---
 
 
-##The arithmetic formatter
+## The arithmetic formatter
 This program arranges arithmetic problems in the format we would write them manually.
 
 **Example:**
@@ -29,7 +29,7 @@ output:
   68
 ```
 ---
-##Time calculator project
+## Time calculator project
 This program takes in the start time and the time you want to add, and then gives back the new time.  
 If there’s a day change, it shows that too!
 
